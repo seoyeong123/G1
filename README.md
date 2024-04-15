@@ -42,7 +42,7 @@ We wrote a concrete script for video and made a video.
  ---
 
  ## Speaking class :speech_balloon:
-  ### :heavy_check_mark: primary function of 'Speaking Class'
+  ### :heavy_check_mark: Primary Function of 'Speaking Class'
 
  'Speaking Class’ is a digital tool that help students to improve their speaking skills.
 
