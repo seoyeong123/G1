@@ -1,8 +1,8 @@
 # G1
 
 ## Group members : Seoyeong Lim, Nahyeon Lee, Bomin Go
-+ Presenter : Seoyeong Lim, Bomin Go
-+ Githup page maker : Nahyeon Lee
++ Presenter & Video making : Seoyeong Lim, Bomin Go
++ Githup page making : Nahyeon Lee
 + Script making : together
 ---
 
