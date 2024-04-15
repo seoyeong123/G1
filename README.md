@@ -38,31 +38,48 @@ We practice presentation.
 
  Speaking Class & Mentimeter
 
- ## Speaking class :speech_balloon:
+ ---
 
- :heavy_check_mark: primary function of 'Speaking Class'
+ ## Speaking class :speech_balloon:
+ ![t스피킹클래스](https://github.com/n1655h/S24/assets/162934997/39faba8c-dbc7-44ec-b028-9bb5bbf0eaa1)
+
+### :heavy_check_mark: primary function of 'Speaking Class'
  The app, 'Speaking Class’ is a digital tool that help students to improve their speaking skills.
 
-##  :+1: Advantage of Speaking Class
+###   :heavy_check_mark: Features of Speaking Class
  
-  + Speaking class is an application that helps teachers guide students through conversation textbooks.
-
-    ### :heavy_check_mark: 
-+ In order to use the speaking classking class, learning materials that students will practice repeatedly before class must be produced on the teacher's webpage, which can be easily made into an Excel file
-
-+ Because this app is a method that a single student practices personally rather than presenting in front of a large number of students, introverted students can also practice speaking focusing on their pronunciation.
-
-+ Students can increase their confidence in speaking English by checking the native speaker's voice provided by the program and practicing their speech sufficiently.
  
-+ Learning by class and step is possible, so learning by level is possible. In addition, it is different from other teaching equipment in that it can create conversation tests or problems more efficiently from the perspective of not only students but also teachers.
++ ####  Easy to make learning materials
+  In order to use the speaking classking class, learning materials that students will practice repeatedly before class must be produced on the teacher's webpage, which can be easily made into an Excel file.
+  ![엑셀 등록](https://github.com/n1655h/S24/assets/162934997/d4e03944-af13-4e6d-af25-e6ad6836a4e4)
+![KakaoTalk_20240415_144308056_01](https://github.com/n1655h/S24/assets/162934997/d6127f07-bd46-4870-a43f-c480f3fa5a0e)
+![KakaoTalk_20240415_144308056](https://github.com/n1655h/S24/assets/162934997/3c42cfec-d6b0-4e98-9cf0-54e0b0ea0d04)
+![KakaoTalk_20240415_144625712](https://github.com/n1655h/S24/assets/162934997/f153f635-a078-4ebd-a768-0d2f727e4cf1)
 
-+  Students who are familiar with electronic devices can be interested in participating in class. Existing classes that only use textbooks can be boring to students. 
 
-+ Customized education is possible. Individual students' progress and level can be known, allowing more detailed feedback than previous classes. 
++ #### Individual practice
+  Because this app is a method that a single student practices personally rather than presenting in front of a large number of students, introverted students can also practice speaking focusing on their pronunciation.
+
++ #### Confident speech
+  Students can increase their confidence in speaking English by checking the native speaker's voice provided by the program and practicing their speech sufficiently.
+
++ #### Customized education
+  Learning by class and step is possible, so learning by level is possible.
+  <br>Customized education is possible. Individual students' progress and level can be known, allowing more detailed feedback than previous classes.
+
+  ![KakaoTalk_20240415_145812035](https://github.com/n1655h/S24/assets/162934997/cde20ec3-b79a-47ec-8a68-3219be1fc082)
+![KakaoTalk_20240415_145812035](https://github.com/n1655h/S24/assets/162934997/0a1f3625-3f9f-475c-9628-35f59067ab33)
+ ![KakaoTalk_20240415_150136685](https://github.com/n1655h/S24/assets/162934997/73e01d39-91f0-4745-82ad-bbc898465d7d)
+![KakaoTalk_20240415_150136685_01](https://github.com/n1655h/S24/assets/162934997/5a97479d-2553-40b8-9e25-0a007832276a)
 
 
- 
+
+  
+
+--- 
  ## Mentimeter :thought_balloon:
+ ### :heavy_check_mark: primary function of 'Mentimeter'
+ ![멘티미터](https://github.com/n1655h/S24/assets/162934997/361dc147-115c-4904-930a-eeecb3760bb2)
  + Mentimeter is a web application that allows you to share various opinions and thoughts of participants in real time online.
  ### 📍How to use a mentimeter?
 1. The teacher accesses the link at the top when you Google Mentimeter.
@@ -73,8 +90,9 @@ We practice presentation.
 6. Students post their answers in real time.
 7. After selecting the keyword that seems to be the biggest word in the entire class as the class opinion, complete the English sentence expressing the opinion and finish the class by speaking together with the entire student.
 
+---
 
- ## Detailed class scenario
+ ## 🏫 Detailed class scenario 🏫
 
 
 |Unit|Lesson 4. The Two Roads|
