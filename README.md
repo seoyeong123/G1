@@ -4,35 +4,36 @@
 + Presenter : Seoyeong Lim, Bomin Go
 + Githup page maker : Nahyeon Lee
 + Script making : together
+---
 
-### 📅 4/9 first meeting
+### 📅 4/9 First meeting
 
-We searched a digital tool on the Internet and made decisions digital tools that would be helpful for students.
+We searched a digital tool on the Internet and decide which digital tools would be helpful for students.
 
-Selected digital tool : Speaking Class
+#### Selected digital tool : Speaking Class
 
 ### 📅 4/14 Second meeting
 We wrote a draft script for the video.
-We decided to introduce one more digital tooL.
-We started to write githup file.
+<br>We decided to introduce one more digital tool(Mentimeter).
+<br>We started to write githup file.
 
-Selected digital tool : Speaking Class & Mentemeter
+#### Selected digital tool : Speaking Class & Mentimeter
 
 
-### 📅 4/15 final meeting
+### 📅 4/15 Final meeting
 
 We wrote a concrete script for video and made a video.
-We practice presentation.
+<br>We wrote a presentation script and practiced presentation.
 
 ---
 
 ## 1. Education target
 
-  middle school students :seedling:
+  Middle school students :seedling:
 
 ## 2. Education goal 
 
- To improve students' speaking skills
+ To improve students' speaking skills :microphone:
 
 ## 3. Digital Tool 
 
@@ -41,29 +42,36 @@ We practice presentation.
  ---
 
  ## Speaking class :speech_balloon:
- ![t스피킹클래스](https://github.com/n1655h/S24/assets/162934997/39faba8c-dbc7-44ec-b028-9bb5bbf0eaa1)
+  ### :heavy_check_mark: primary function of 'Speaking Class'
 
-### :heavy_check_mark: primary function of 'Speaking Class'
- The app, 'Speaking Class’ is a digital tool that help students to improve their speaking skills.
+ 'Speaking Class’ is a digital tool that help students to improve their speaking skills.
 
+ ![t스피킹클래스](https://github.com/n1655h/S24/assets/162934997/7d3b6963-a3ff-4d5b-8099-8f7958c1e835)
+
+
+---
 ###   :heavy_check_mark: Features of Speaking Class
+
+## :question: How user-friendly is the tool for both teachers and students?
+
  
- 
-+ ####  Easy to make learning materials
-  In order to use the speaking classking class, learning materials that students will practice repeatedly before class must be produced on the teacher's webpage, which can be easily made into an Excel file.
++ ####  Easy to make learning materials (for teachers)
+  In order to use the speaking class, learning materials that students will practice repeatedly before class must be produced on the teacher's webpage, which can be easily made into an Excel file.
   ![엑셀 등록](https://github.com/n1655h/S24/assets/162934997/d4e03944-af13-4e6d-af25-e6ad6836a4e4)
-![KakaoTalk_20240415_144308056_01](https://github.com/n1655h/S24/assets/162934997/d6127f07-bd46-4870-a43f-c480f3fa5a0e)
 ![KakaoTalk_20240415_144308056](https://github.com/n1655h/S24/assets/162934997/3c42cfec-d6b0-4e98-9cf0-54e0b0ea0d04)
+![KakaoTalk_20240415_144308056_01](https://github.com/n1655h/S24/assets/162934997/d6127f07-bd46-4870-a43f-c480f3fa5a0e)
 ![KakaoTalk_20240415_144625712](https://github.com/n1655h/S24/assets/162934997/f153f635-a078-4ebd-a768-0d2f727e4cf1)
-
-
-+ #### Individual practice
+ ### :question: How does the tool integrate with traditional English teaching methods? 
+ Learning materials are reflecting the English curriculum and textbook contents for students.
+ ![KakaoTalk_20240415_164032913](https://github.com/n1655h/S24/assets/162934997/8721c680-51a1-42a3-a319-87e7389da1f5)
+ 
++ #### Individual practice (for students)
   Because this app is a method that a single student practices personally rather than presenting in front of a large number of students, introverted students can also practice speaking focusing on their pronunciation.
 
-+ #### Confident speech
++ #### Confident speech (for students)
   Students can increase their confidence in speaking English by checking the native speaker's voice provided by the program and practicing their speech sufficiently.
 
-+ #### Customized education
++ #### Customized education (for both teachers and students)
   Learning by class and step is possible, so learning by level is possible.
   <br>Customized education is possible. Individual students' progress and level can be known, allowing more detailed feedback than previous classes.
 
@@ -72,6 +80,16 @@ We practice presentation.
  ![KakaoTalk_20240415_150136685](https://github.com/n1655h/S24/assets/162934997/73e01d39-91f0-4745-82ad-bbc898465d7d)
 ![KakaoTalk_20240415_150136685_01](https://github.com/n1655h/S24/assets/162934997/5a97479d-2553-40b8-9e25-0a007832276a)
 
+---
+## :question: What kind of interactive features that the tool offer to engage students?
+### :collision: Speaking Battle
+Speaking Battle is a game-type learning tab that quickly clears English sentences that fit the meaning of the Korean language. Teachers can present their own English questions for students to use in the game. Once the game starts, students simply say the English sentences that fit the meaning of the Korean language after clicking on the microphone. The rankings are determined according to the time required. Through these games, students can practice speaking in an interesting way and review what they learned in their class.
+
+![KakaoTalk_20240415_161750319](https://github.com/n1655h/S24/assets/162934997/0da811f6-4fe4-4d97-b04a-bc56e1e1f251)
+![KakaoTalk_20240415_161237603](https://github.com/n1655h/S24/assets/162934997/844e9eb9-8a21-4354-a6e9-d46f8e5118c8)
+![KakaoTalk_20240415_161237603_01](https://github.com/n1655h/S24/assets/162934997/cdf9c56e-5d3e-403a-b914-e98ba0e38d66)
+![KakaoTalk_20240415_161237603_02](https://github.com/n1655h/S24/assets/162934997/94734935-89ac-4c47-b721-83d279093b27)
+![KakaoTalk_20240415_161941804](https://github.com/n1655h/S24/assets/162934997/7d8368e6-aa7f-4386-b815-b9c5ff5b700d)
 
 
   
@@ -79,8 +97,9 @@ We practice presentation.
 --- 
  ## Mentimeter :thought_balloon:
  ### :heavy_check_mark: primary function of 'Mentimeter'
+ Mentimeter is a web application that allows you to share various opinions and thoughts of participants in real time online.
  ![멘티미터](https://github.com/n1655h/S24/assets/162934997/361dc147-115c-4904-930a-eeecb3760bb2)
- + Mentimeter is a web application that allows you to share various opinions and thoughts of participants in real time online.
+ 
  ### 📍How to use a mentimeter?
 1. The teacher accesses the link at the top when you Google Mentimeter.
 2. Create an account using Facebook or Gmail and log in.
