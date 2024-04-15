@@ -111,7 +111,7 @@ Speaking Battle is a game-type learning tab that quickly clears English sentence
 
 ---
 
- ## 🏫 Detailed class scenario 🏫
+ ## Detailed class scenario 🏫
 
 
 |Unit|Lesson 4. The Two Roads|
@@ -142,7 +142,7 @@ Then Using a mentimeter has the advantage of being able to induce students' inte
 Thank you.
 
 ---
-### Video Links :clapper:
+## Video Links :clapper:
 ## https://youtu.be/Jp8w3tRtuL0
 
 
