@@ -5,6 +5,26 @@
 + Githup page maker : Nahyeon Lee
 + Script making : together
 
+### 📅 4/9 first meeting
+
+We searched a digital tool on the Internet and made decisions digital tools that would be helpful for students.
+
+Selected digital tool : Speaking Class
+
+### 📅 4/14 Second meeting
+We wrote a draft script for the video.
+We decided to introduce one more digital tooL.
+We started to write githup file.
+
+Selected digital tool : Speaking Class & Mentemeter
+
+
+### 📅 4/15 final meeting
+
+We wrote a concrete script for video and made a video.
+We practice presentation.
+
+---
 
 ## 1. Education target
 
@@ -19,14 +39,27 @@
  Speaking Class & Mentimeter
 
  ## Speaking class :speech_balloon:
-  + Speaking class is an application that helps teachers guide students through conversation textbooks. Anyone can create conversation learning materials with just one conversation textbook. Teachers create and provide conversation situations to students, and students can improve their conversation skills by answering the conversation situations created by teachers.
 
-  + At this point, the algorithm is applied to some functions such as hints and asking questions, so the actual conversation situation can be created more simply and quickly by using ai. In addition, students' progress, evaluation, and analysis results can be seen at a glance, so students' learning results can be identified and feedback can be provided. In addition, since this app is a method that a single student practices personally rather than presenting in front of a large number of students, introverted students can also practice speaking focusing on their pronunciation. Students can increase their confidence in speaking English by checking the native speaker's voice provided by the program and practicing their speech sufficiently. In addition, learning by class and step is possible, so learning by level is possible. In addition, it is different from other teaching equipment in that it can create conversation tests or problems more efficiently from the perspective of not only students but also teachers.
+ :heavy_check_mark: primary function of 'Speaking Class'
+ The app, 'Speaking Class’ is a digital tool that help students to improve their speaking skills.
 
-### The effects of using this app
-1. Students who are familiar with electronic devices can be interested in participating in class. Existing classes that only use textbooks can be boring to students. 
-2. Customized education is possible. Individual students' progress and level can be known, allowing more detailed feedback than previous classes. In existing classes in elementary school classrooms, speaking learning is often poor because individual students and teachers' one-on-one customized conversation situations are not well created. 
-3. It is also possible to have conversations between students. 
+##  :+1: Advantage of Speaking Class
+ 
+  + Speaking class is an application that helps teachers guide students through conversation textbooks.
+
+    ### :heavy_check_mark: 
++ In order to use the speaking classking class, learning materials that students will practice repeatedly before class must be produced on the teacher's webpage, which can be easily made into an Excel file
+
++ Because this app is a method that a single student practices personally rather than presenting in front of a large number of students, introverted students can also practice speaking focusing on their pronunciation.
+
++ Students can increase their confidence in speaking English by checking the native speaker's voice provided by the program and practicing their speech sufficiently.
+ 
++ Learning by class and step is possible, so learning by level is possible. In addition, it is different from other teaching equipment in that it can create conversation tests or problems more efficiently from the perspective of not only students but also teachers.
+
++  Students who are familiar with electronic devices can be interested in participating in class. Existing classes that only use textbooks can be boring to students. 
+
++ Customized education is possible. Individual students' progress and level can be known, allowing more detailed feedback than previous classes. 
+
 
  
  ## Mentimeter :thought_balloon:
