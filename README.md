@@ -8,7 +8,7 @@
 
 ### 📅 4/9 First meeting
 
-We searched a digital tool on the Internet and decide which digital tools would be helpful for students.
+We searched a digital tool on the Internet and decided which digital tools would be helpful for students.
 
 #### Selected digital tool : Speaking Class
 
@@ -29,7 +29,7 @@ We wrote a concrete script for video and made a video.
 
 ## 1. Education target
 
-  Middle school students :seedling:
+  Elementary school students :seedling:
 
 ## 2. Education goal 
 
@@ -37,7 +37,7 @@ We wrote a concrete script for video and made a video.
 
 ## 3. Digital Tool 
 
- Speaking Class & Mentimeter
+ Speaking Class & Mentimeter :computer:
 
  ---
 
@@ -50,7 +50,7 @@ We wrote a concrete script for video and made a video.
 
 
 ---
-###   :heavy_check_mark: Features of Speaking Class
+#   :heavy_check_mark: Features of Speaking Class
 
 ## :question: How user-friendly is the tool for both teachers and students?
 
@@ -101,13 +101,13 @@ Speaking Battle is a game-type learning tab that quickly clears English sentence
  ![멘티미터](https://github.com/n1655h/S24/assets/162934997/361dc147-115c-4904-930a-eeecb3760bb2)
  
  ### 📍How to use a mentimeter?
+
 1. The teacher accesses the link at the top when you Google Mentimeter.
 2. Create an account using Facebook or Gmail and log in.
 3. Create a new presentation page on the dashboard that is suitable for use in classes.
 4. Click the [share] button at the top right and distribute a survey access link or QR code to students.
-5. Students access the teacher-distributed mentimeter page and post questions in groups in real time.
-6. Students post their answers in real time.
-7. After selecting the keyword that seems to be the biggest word in the entire class as the class opinion, complete the English sentence expressing the opinion and finish the class by speaking together with the entire student.
+5. Students access the teacher-distributed mentimeter page through an access link or QR code.
+6. Students post questions or answers in English in real time.
 
 ---
 
@@ -127,5 +127,22 @@ Speaking Battle is a game-type learning tab that quickly clears English sentence
 |                     |Open the mentimeter and float questions for each group, and students post their own answers in real time<br>Complete and speak together English sentences expressing opinions using the keywords that appear to be the biggest words|![KakaoTalk_20240414_210451358_02](https://github.com/n1655h/n1655h/assets/162934997/9e6c51d7-f35e-4f71-bd1a-f765911ba21f)|Teacher-class|
 |The end of class|Choose your favorite questions from the class survey activities, speak and record the questions and your answers<br>Upload the recorded file to the English portfolio class paddlet|Paddlet|Individual students|
 
+---
+## Script for the video :memo:
+Hello everyone.
+We found good educational applications that we would like to introduce to you.
+It is app that called "AI speaking class" and "Mentimeter"
+Speaking class is an application that helps teachers guide students through conversation textbooks. Anyone can create conversation learning materials with just one conversation textbook. Teachers create and provide conversation situations to students, and students can improve their conversation skills by answering the conversation situations created by teachers.
+At this point, the algorithm is applied to some functions such as hints and asking questions, so the actual conversation situation can be created more simply and quickly by using ai. In addition, students' progress, evaluation, and analysis results can be seen at a glance, so students' learning results can be identified and feedback can be provided. In addition, since this app is a method that a single student practices personally rather than presenting in front of a large number of students, introverted students can also practice speaking focusing on their pronunciation. Students can increase their confidence in speaking English by checking the native speaker's voice provided by the program and practicing their speech sufficiently. In addition, learning by class and step is possible, so learning by level is possible. In addition, it is different from other teaching equipment in that it can create conversation tests or problems more efficiently from the perspective of not only students but also teachers.
+The effects of using this app in traditional classes are as follows.
+1. Students who are familiar with electronic devices can be interested in participating in class. Existing classes that only use textbooks can be boring to students. As the age range for using electronic devices decreases a lot these days, students' interest and participation can be increased by using mobile phones or laptops. In particular, with the introduction of ai such as chat gpt, many changes have occurred in education, and I think that adolescents can feel more convenient because they are exposed to the use of ai, which is the current issue.
+2. Customized education is possible. Individual students' progress and level can be known, allowing more detailed feedback than previous classes. In existing classes in elementary school classrooms, speaking learning is often poor because individual students and teachers' one-on-one customized conversation situations are not well created. However, the speaking class can complement the limitations of traditional classroom instruction because the teacher can directly organize the progress and unit desired by the teacher and intuitively judge the individual student's participation and achievement.
+3. It is also possible to have conversations between students. Although it is an app that you practice individually, if you use it in class, you can also increase interactions between students. In the case of applying this app to class, after individual students had time to practice a specific phrase through this app, they discussed with other students to make sentences through the phrase. In this way, you can exchange opinions with other students and expect to improve the learning effect.
+Then Using a mentimeter has the advantage of being able to induce students' interest and intuitively share students' thoughts because the content entered on one screen is immediately shown to all students. If it is used in class, it has a motivational effect and can be used whenever you want to collect students' opinions, such as in the middle of class or final activities. And as a final activity, you can also use it to summarize the content by entering the most important or memorable keywords you learned in class.
+Thank you.
+
+---
+### Video Links :clapper:
+## https://youtu.be/Jp8w3tRtuL0
 
 
